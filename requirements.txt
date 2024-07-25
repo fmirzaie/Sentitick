@@ -1,0 +1,7 @@
+pandas
+requests
+yfinance
+beautifulsoup4
+python-dotenv
+langchain
+langchain-openai
